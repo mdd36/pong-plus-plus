@@ -1,4 +1,6 @@
-Copyright (c) 2011, David
+Copyright (c) 2018, Matt Dickson, Jeff Erymer, Botao Hu
+
+pong03 copyright (c) 2011, David
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
