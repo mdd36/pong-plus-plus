@@ -21,7 +21,7 @@ that doing only average will slowly force it to try new strategies, but does mea
 a single value. 
 
 ## Picture
-![](https://gph.to/2vjX4Vn)
+![](https://media.giphy.com/media/9S3cS3JGSoZdn2mPlM/giphy.gif)
 
 ## Notes
 This model learned to only care about the y coordinate of the ball and the current paddle coordinates,just as the cheating model does. There's no reason this network couldn't 
